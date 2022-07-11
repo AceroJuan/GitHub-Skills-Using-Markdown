@@ -5,3 +5,7 @@
 ```
 $ bin/rails server
 ```
+
+- [x] added cat
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
